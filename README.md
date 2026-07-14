@@ -44,4 +44,4 @@
 
 *   📧 Email: [nickita.kozeev25@gmail.com](mailto:nickita.kozeev25@gmail.com)
 *   ✈️ Telegram: [@freezethus](https://t.me/freezethus)
-*   💼 LinkedIn: [Ссылка на профиль](#) *(link)*
+*   💼 LinkedIn: [Ссылка на профиль](https://www.linkedin.com/in/nikita-kozeev-b4614326b/)
