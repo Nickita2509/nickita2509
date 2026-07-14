@@ -2,7 +2,7 @@
 
 🎯 **Junior Technical Support Engineer (L1/L2) с уклоном в инфраструктуру**  
 📍 Москва, Россия | Готов к удалённой работе  
-🌐 [Моё резюме на hh.ru](#) (https://hh.ru/resume/fb2cfccfff100a3a6a0039ed1f313875636d51)
+🌐 [Моё резюме на hh.ru](https://hh.ru/resume/fb2cfccfff100a3a6a0039ed1f313875636d51)
 
 ---
 
@@ -30,7 +30,7 @@
 
 Все мои практические инженерные работы собраны в едином репозитории. Каждый проект внутри содержит подробный `README` с описанием задачи, архитектурой и инструкциями по запуску:
 
-* 📁 **[School 21 DevOps Portfolio](#)** (https://github.com/Nickita2509/school_21)
+* 📁 **[School 21 DevOps Portfolio](https://github.com/Nickita2509/school_21)**
   * 🐧 **DO1_Linux:** Ubuntu Server без GUI, netplan, SSH-hardening, анализ `/var/log/`.
   * 🌐 **DO2_Linux_Network:** Статическая маршрутизация, DHCP, NAT, фильтрация `iptables`, диагностика `tcpdump`/`iperf3`.
   * ⚙️ **DO3_Linux_Monitoring v1.0:** Bash-скрипты для сбора метрик и парсинга Nginx-логов через `awk`.
